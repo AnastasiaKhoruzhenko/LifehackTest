@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LifehackTest</string>
+    <string name="phone">Phone:</string>
+    <string name="lon">Lon:</string>
+    <string name="lat">Lat:</string>
+    <string name="site">Site:</string>
+</resources>
